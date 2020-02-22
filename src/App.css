@@ -37,3 +37,41 @@ body, html {
 .App-link {
 	color: #61dafb;
 }
+.health {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+}
+
+.w-100{
+	width: 100%;
+}
+
+.d-flex{
+	display: flex;
+}
+
+.j-s-b {
+	justify-content: space-between;
+}
+
+.j-s-a{
+	justify-content: space-around;
+}
+
+.align-self-center {
+	align-self: center;
+}
+
+.p-relative{
+	position: relative;
+}
+
+.m-r-10{
+	margin-right: 10px;
+}
+
+.antd-icon{
+	font-size: 40px;
+	color: #08c;
+}
